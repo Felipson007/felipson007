@@ -1,7 +1,8 @@
 # Olá, me chamo Felipe! 
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Atualmente estou trabalhando na Capgemini
-- 🌱 Atualmente estou aprendendo TypeScript 
+- 🌱 Atualmente estou aprendendo TypeScript
+- 👌 Atualmente a linguagem que mais uso é JAVA
 
 
 ## Contatos:
